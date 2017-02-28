@@ -3,4 +3,6 @@ shfjhfkahsfhf"
 
 y = "Second change to the file"
 
-puts x.upcase + " .. " + y.downcase
+z = "Last change for the file"
+
+puts x.upcase + " .. " + y.downcase + "..." + z.reverse
